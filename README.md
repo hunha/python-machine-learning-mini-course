@@ -1,1 +1,1 @@
-# python-machine-learning-mini-course
+This repo contains all my learning code from this mini course: https://machinelearningmastery.com/python-machine-learning-mini-course/
